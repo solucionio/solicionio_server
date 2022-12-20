@@ -10,7 +10,7 @@ import java.util.HashMap;
 public class Register extends RequestModule {
 
     public Register() {
-        super("register", true);
+        super("register", true, 2);
     }
 
     @Override
