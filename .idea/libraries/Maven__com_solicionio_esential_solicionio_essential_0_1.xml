@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.solicionio_esential:solicionio_essential:0.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/solicionio_esential/solicionio_essential/0.1/solicionio_essential-0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/solicionio_esential/solicionio_essential/0.1/solicionio_essential-0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/solicionio_esential/solicionio_essential/0.1/solicionio_essential-0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
