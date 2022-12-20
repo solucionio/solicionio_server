@@ -1,1 +1,3 @@
-org\example\Main.class
+com\solicionio\server\Main.class
+com\solicionio\server\providers\Login.class
+com\solicionio\server\providers\Register.class
