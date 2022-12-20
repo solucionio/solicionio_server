@@ -10,14 +10,14 @@ import java.util.HashMap;
 public class Register extends RequestModule {
 
     public Register() {
-        super("register", true, 2);
+        super(true, 2);
     }
 
     @Override
     public void response(ChannelHandlerContext ctx, Object msg) {
         JSONObject object = new JSONObject();
         object.put("data", new HashMap<>());
-        object.put("status", true);
+        object.put("status", this.getClass().getSimpleName());
 
         /*if(false) {
             error(ctx, object);

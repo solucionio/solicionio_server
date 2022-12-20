@@ -8,7 +8,7 @@ import org.json.JSONObject;
 public class Login extends RequestModule {
 
     public Login() {
-        super("login", true, 1);
+        super(true, 1);
     }
 
     @Override
